@@ -1,3 +1,5 @@
+package src;
+
 import Controllers.Maincontroller;
 
 public class App 
